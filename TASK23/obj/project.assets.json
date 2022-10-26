@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3sem\\TASK23\\TASK23.csproj",
+      "projectUniqueName": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3DZ\\TASK23\\TASK23.csproj",
       "projectName": "TASK23",
-      "projectPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3sem\\TASK23\\TASK23.csproj",
+      "projectPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3DZ\\TASK23\\TASK23.csproj",
       "packagesPath": "C:\\Users\\Hope\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3sem\\TASK23\\obj\\",
+      "outputPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3DZ\\TASK23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hope\\AppData\\Roaming\\NuGet\\NuGet.Config"

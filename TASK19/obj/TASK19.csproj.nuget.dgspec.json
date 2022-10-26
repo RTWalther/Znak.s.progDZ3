@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3sem\\TASK19\\TASK19.csproj": {}
+    "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3DZ\\TASK19\\TASK19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3sem\\TASK19\\TASK19.csproj": {
+    "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3DZ\\TASK19\\TASK19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3sem\\TASK19\\TASK19.csproj",
+        "projectUniqueName": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3DZ\\TASK19\\TASK19.csproj",
         "projectName": "TASK19",
-        "projectPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3sem\\TASK19\\TASK19.csproj",
+        "projectPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3DZ\\TASK19\\TASK19.csproj",
         "packagesPath": "C:\\Users\\Hope\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3sem\\TASK19\\obj\\",
+        "outputPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\3DZ\\TASK19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hope\\AppData\\Roaming\\NuGet\\NuGet.Config"
